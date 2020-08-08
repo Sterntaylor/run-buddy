@@ -429,7 +429,7 @@ section {
     grid-template-columns: 1fr repeat(2, 4fr);
     grid-template-rows: repeat(5, 1fr) 2fr;
     border: 2px solid var(--secondary-color);
-    color:  var(--secondary-color));
+    color:  var(--secondary-color);
     font-size: 1.2rem;
   }
   .service-grid-item.basic {
